@@ -104,7 +104,9 @@ H --> C
 <br><br>
 <img src="Inquiry.png" width="600"/>
 <br><br>
-<img src="Transaction details.png" width="600"/>
+<img src="Transaction Details.png" width="600"/>
+<br><br>
+<img src="Exit.png" width="600"/>
 
 </div>
 ---
